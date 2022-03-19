@@ -1,16 +1,33 @@
-### Hi there 👋
+
 
 <!--
-**yeyosef/yeyosef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div> <img src="https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif" /></div>
 -->
+
+
+
+<h1 align="center">Hi 👋, I'm Yusuf Emre Bayat</h1>
+
+📫 How to reach me **bayat18@itu.edu.tr**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yeyosef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeyosef" height="30" width="40" /></a>
+<a href="https://instagram.com/yeyosef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeyosef" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18454578/yeyosef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yeyosef" height="30" width="40" /></a>
+
+</p>
+
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeyosef&count_private=true&show_icons=true&theme=github_dark" />
+
+
+<br/> 
+
+![](https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif)
+
+<br/>
+
+
+![](https://komarev.com/ghpvc/?username=yeyosefarakay&color=orange)
