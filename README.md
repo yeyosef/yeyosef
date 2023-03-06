@@ -18,17 +18,3 @@
 <a href="https://stackoverflow.com/users/18454578/yeyosef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yeyosef" height="30" width="40" /></a>
 
 </p>
-
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeyosef&count_private=true&show_icons=true&theme=github_dark" />
-
-
-<br/> 
-
-![](https://github.com/dkarakay/dkarakay/blob/output/github-snake.gif)
-
-<br/>
-
-
-![](https://komarev.com/ghpvc/?username=yeyosefarakay&color=orange)
