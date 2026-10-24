@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Yusuf Emre Bayat</h1>
 
-📫 How to reach me **bayat18@itu.edu.tr**
+📫 How to reach me **bayatyusufemre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
